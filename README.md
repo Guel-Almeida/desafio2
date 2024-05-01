@@ -1,4 +1,4 @@
-# Escola Manager CRUD Challenge
+# School Manager CRUD Challenge
 
 
 ## About
