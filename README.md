@@ -24,4 +24,10 @@ To begin working on the Escola Manager CRUD Challenge, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/Guel-Almeida/desafio.git)
+cd <project_directory>
+composer install
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
