@@ -28,27 +28,27 @@ To begin working on the Escola Manager CRUD Challenge, follow these steps:
 git clone [repository_url](https://github.com/Guel-Almeida/desafio.git)
 
 # Navegue até o diretório do projeto
-```bash
+
 cd <project_directory>
 
 # Instale as dependências do projeto usando o Composer
-```bash
+
 composer install
 
 # Gere a chave da aplicação
-```bash
+
 php artisan key:generate
 
 # Execute as migrações do banco de dados para configurar as tabelas necessárias
-```bash
+
 php artisan migrate
 
 # Gere a documentação Swagger
-```bash
+
 php artisan l5-swagger:generate
 
 # Finalmente, inicie o servidor de desenvolvimento Laravel
-```bash
+
 php artisan serve
 
 
